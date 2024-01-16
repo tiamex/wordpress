@@ -1,0 +1,5 @@
+.custom-logo-link img {
+    max-height: 72px;
+    object-fit: cover;
+    width: 100%;
+}
