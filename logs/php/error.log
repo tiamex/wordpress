@@ -276,3 +276,117 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\index.php on line 15
+[16-Jan-2024 22:02:50 UTC] Sync process for Gutenberg Blocks has started.
+[16-Jan-2024 22:02:51 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[16-Jan-2024 22:02:51 UTC] BLOCK: Requests count 8
+[16-Jan-2024 22:02:51 UTC] BLOCK: Importing request 1 ..
+[16-Jan-2024 22:02:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[16-Jan-2024 22:02:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[16-Jan-2024 22:02:54 UTC] BLOCK: Completed request 1
+[16-Jan-2024 22:02:54 UTC] BLOCK: Importing request 2 ..
+[16-Jan-2024 22:02:54 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[16-Jan-2024 22:02:54 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[16-Jan-2024 22:02:57 UTC] BLOCK: Completed request 2
+[16-Jan-2024 22:02:57 UTC] BLOCK: Importing request 3 ..
+[16-Jan-2024 22:02:57 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[16-Jan-2024 22:02:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[16-Jan-2024 22:02:58 UTC] BLOCK: Completed request 3
+[16-Jan-2024 22:02:58 UTC] BLOCK: Importing request 4 ..
+[16-Jan-2024 22:02:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[16-Jan-2024 22:02:58 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[16-Jan-2024 22:02:58 UTC] BLOCK: Completed request 4
+[16-Jan-2024 22:02:58 UTC] BLOCK: Importing request 5 ..
+[16-Jan-2024 22:02:58 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[16-Jan-2024 22:02:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[16-Jan-2024 22:02:59 UTC] BLOCK: Completed request 5
+[16-Jan-2024 22:02:59 UTC] BLOCK: Importing request 6 ..
+[16-Jan-2024 22:02:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[16-Jan-2024 22:02:59 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[16-Jan-2024 22:02:59 UTC] BLOCK: Completed request 6
+[16-Jan-2024 22:02:59 UTC] BLOCK: Importing request 7 ..
+[16-Jan-2024 22:02:59 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[16-Jan-2024 22:03:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[16-Jan-2024 22:03:00 UTC] BLOCK: Completed request 7
+[16-Jan-2024 22:03:00 UTC] BLOCK: Importing request 8 ..
+[16-Jan-2024 22:03:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[16-Jan-2024 22:03:00 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[16-Jan-2024 22:03:00 UTC] BLOCK: Completed request 8
+[16-Jan-2024 22:03:00 UTC] SITE: Getting Total Sites
+[16-Jan-2024 22:03:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg&per_page=30
+[16-Jan-2024 22:03:00 UTC] SITE: Request count 7
+[16-Jan-2024 22:03:00 UTC] SITE: Importing request 1 ..
+[16-Jan-2024 22:03:00 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=1&page-builder=gutenberg
+[16-Jan-2024 22:03:01 UTC] SITE: Storing in option ast-block-templates-sites-1
+[16-Jan-2024 22:03:01 UTC] SITE: Completed request 1
+[16-Jan-2024 22:03:01 UTC] SITE: Importing request 2 ..
+[16-Jan-2024 22:03:01 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=2&page-builder=gutenberg
+[16-Jan-2024 22:03:01 UTC] SITE: Storing in option ast-block-templates-sites-2
+[16-Jan-2024 22:03:02 UTC] SITE: Completed request 2
+[16-Jan-2024 22:03:02 UTC] SITE: Importing request 3 ..
+[16-Jan-2024 22:03:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=3&page-builder=gutenberg
+[16-Jan-2024 22:03:02 UTC] SITE: Storing in option ast-block-templates-sites-3
+[16-Jan-2024 22:03:03 UTC] SITE: Completed request 3
+[16-Jan-2024 22:03:03 UTC] SITE: Importing request 4 ..
+[16-Jan-2024 22:03:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=4&page-builder=gutenberg
+[16-Jan-2024 22:03:03 UTC] SITE: Storing in option ast-block-templates-sites-4
+[16-Jan-2024 22:03:04 UTC] SITE: Completed request 4
+[16-Jan-2024 22:03:04 UTC] SITE: Importing request 5 ..
+[16-Jan-2024 22:03:04 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=5&page-builder=gutenberg
+[16-Jan-2024 22:03:04 UTC] SITE: Storing in option ast-block-templates-sites-5
+[16-Jan-2024 22:03:04 UTC] SITE: Completed request 5
+[16-Jan-2024 22:03:04 UTC] SITE: Importing request 6 ..
+[16-Jan-2024 22:03:04 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=6&page-builder=gutenberg
+[16-Jan-2024 22:03:04 UTC] SITE: Storing in option ast-block-templates-sites-6
+[16-Jan-2024 22:03:05 UTC] SITE: Completed request 6
+[16-Jan-2024 22:03:05 UTC] SITE: Importing request 7 ..
+[16-Jan-2024 22:03:05 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=30&page=7&page-builder=gutenberg
+[16-Jan-2024 22:03:05 UTC] SITE: Storing in option ast-block-templates-sites-7
+[16-Jan-2024 22:03:05 UTC] SITE: Completed request 7
+[16-Jan-2024 22:03:05 UTC] Sync process for Gutenberg Blocks is done.
+[16-Jan-2024 22:03:06 UTC] BLOCK: Getting Server Custimizer CSS
+[16-Jan-2024 22:03:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[16-Jan-2024 22:44:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "uri" in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php:31
+Stack trace:
+#0 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Mattia...', true, Array)
+#2 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\page.php(15): get_header()
+#4 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Mattia...')
+#5 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Mattia...')
+#6 C:\Users\Mattia\Local Sites\calcettomessina\app\public\index.php(17): require('C:\\Users\\Mattia...')
+#7 {main}
+  thrown in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php on line 31
+[16-Jan-2024 22:45:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "uri" in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php:31
+Stack trace:
+#0 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Mattia...', true, Array)
+#2 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\page.php(15): get_header()
+#4 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Mattia...')
+#5 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Mattia...')
+#6 C:\Users\Mattia\Local Sites\calcettomessina\app\public\index.php(17): require('C:\\Users\\Mattia...')
+#7 {main}
+  thrown in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php on line 31
+[16-Jan-2024 22:45:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "uri" in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php:31
+Stack trace:
+#0 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Mattia...', true, Array)
+#2 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\page.php(15): get_header()
+#4 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Mattia...')
+#5 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Mattia...')
+#6 C:\Users\Mattia\Local Sites\calcettomessina\app\public\index.php(17): require('C:\\Users\\Mattia...')
+#7 {main}
+  thrown in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php on line 31
+[16-Jan-2024 22:45:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "uri" in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php:31
+Stack trace:
+#0 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(790): require_once()
+#1 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template.php(725): load_template('C:\\Users\\Mattia...', true, Array)
+#2 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\page.php(15): get_header()
+#4 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Mattia...')
+#5 C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Mattia...')
+#6 C:\Users\Mattia\Local Sites\calcettomessina\app\public\index.php(17): require('C:\\Users\\Mattia...')
+#7 {main}
+  thrown in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php on line 31
+[17-Jan-2024 00:36:22 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in C:\Users\Mattia\Local Sites\calcettomessina\app\public\wp-content\themes\cmtheme\header.php on line 46

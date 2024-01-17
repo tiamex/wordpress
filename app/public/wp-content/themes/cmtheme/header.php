@@ -25,27 +25,18 @@
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'cmtheme' ); ?></a>
 
+	<?php
+	$uri = "{$_SERVER['REQUEST_URI']}";
+	$background ='bg-white';
+	if ($uri == '/') {
+		$background ='bg-trasparent navbar-home';
+	}
+	?>
+
 	<header id="masthead" class="site-header">
-		<nav class="navbar navbar-expand-lg bg-body-tertiary">
+		<nav class="navbar navbar-expand-sm <?php echo $background; ?>">
 			<div class="container-fluid">
-				<a class="navbar-brand" href="/">
-					<?php
-					the_custom_logo();
-					if ( is_front_page() && is_home() ) :
-						?>
-						<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-						<?php
-					else :
-						?>
-						<p class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></p>
-						<?php
-					endif;
-					$cmtheme_description = get_bloginfo( 'description', 'display' );
-					if ( $cmtheme_description || is_customize_preview() ) :
-						?>
-						<p class="site-description"><?php echo $cmtheme_description; // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped ?></p>
-					<?php endif; ?>
-				</a>
+				<?php the_custom_logo(); ?>
 
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
